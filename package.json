@@ -1,0 +1,19 @@
+{
+  "name": "telegram-sms-bomber-master",
+  "version": "1.0.0",
+  "description": "Simple Telegram SMS Bomber written in Python using [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newagno/Boomber665.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newagno/Boomber665/issues"
+  },
+  "homepage": "https://github.com/newagno/Boomber665#readme"
+}
