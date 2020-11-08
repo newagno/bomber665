@@ -30,4 +30,4 @@ def bomber(message):
     SMS_ATTACK(threads, time, target)
 
 
-bot.polling()
+bot.polling(none_stop=True, interval=0)
